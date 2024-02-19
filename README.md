@@ -1,1 +1,1 @@
-# TailwindCSS short training
+# TailwindCSS usage examples
